@@ -1,0 +1,1 @@
+const tarefas = document.querySelector(".tarefas");

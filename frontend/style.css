@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.titulo {
+    color: lightblue;
+}
+
+.tarefas {
+    margin: 10px;
+}
