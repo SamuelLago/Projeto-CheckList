@@ -10,3 +10,12 @@ body {
 .tarefas {
     margin: 10px;
 }
+
+.feito {
+    color: lightgray;
+    text-decoration: line-through;
+}
+
+#tarefaNova {
+    margin-bottom: 10px;
+}
